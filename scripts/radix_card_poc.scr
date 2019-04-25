@@ -1,0 +1,11 @@
+//Test script for Applet 'Radix_Card_POC'
+
+powerup;
+
+// Select Radix_Card_POC //aid/DEADBEEF79/00
+0x00 0xA4 0x04 0x00 0X06 0XDE 0XAD 0XBE 0XEF 0X79 0X01 0x7F;
+
+//Send the APDU here
+0xB0 0x30 0x00 0x00 0xFF;
+
+powerdown;

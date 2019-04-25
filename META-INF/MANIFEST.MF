@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Runtime-Descriptor-Version: 3.0
+Classic-Package-AID: //aid/DEADBEEF79/00
+Application-Type: classic-applet
+
