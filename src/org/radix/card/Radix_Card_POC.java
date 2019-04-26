@@ -55,8 +55,8 @@ public class Radix_Card_POC extends Applet implements ExtendedLength
     final static byte   INSTALL_KEYS_PROVIDED = (byte) 0x01;
     final static byte   USER_PIN        = (byte) 0x00;
     final static byte   MASTER_PIN      = (byte) 0x01;
-    final static byte   COMPRESSED_KEY  = (byte) 0x00;
-    final static byte   UNCOMPRESSED_KEY  = (byte) 0x01;
+    final static byte   COMPRESSED_KEY  = (byte) 0x01;
+    final static byte   UNCOMPRESSED_KEY  = (byte) 0x00;
 	
     final static byte   PIN_TRY_LIMIT   = (byte)0x03;
     final static byte   MIN_PIN_SIZE 	= (byte)0x04;
